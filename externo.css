@@ -1,0 +1,20 @@
+body{
+    background-color: #333;
+    color: white;
+    padding: 50px;
+    }
+    h1{
+    color: red;
+    }
+    p{
+    font-size: 12px;
+    }
+    h3{
+    color: blue;
+    }
+    ol{
+    background: white;
+    color: #333;
+    padding: 30px;
+    width: 100px;
+    }
