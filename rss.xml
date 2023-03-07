@@ -2,19 +2,27 @@
 <rss version="2.0">
 
 <channel>
-  <title>W3Schools Home Page</title>
-  <link>https://www.w3schools.com</link>
-  <description>Free web building tutorials</description>
+  <title>Mi Página de inicio.</title>
+  <link> https://alegarrup.github.io/ProyectoFinal</link>
+  <description>Mi Página de HTML con css.</description>
+ </channel>
+<channel>
+  
+  <title>Antena 3</title>
+  <link>https://www.antena3.com/noticias/</link>
+  <description>Canal de noticias Antena 3.</description>
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
-  </item>
-  <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
+    <title>Guerra Rusia</title>
+    <link>https://www.antena3.com/noticias/mundo/guerra-rusia-ucrania-hoy-directo-ucrania-mantiene-defensa-bajmut-refuerzos-adicionales_202303076406e89b58a098000198e79a.html</link>
+    <description>Noticias sobre la guerra de Rusia y Ucrania.</description>
   </item>
 </channel>
-
+  
+  <channel>
+  <title>Ecija.</title>
+  <link> https://www.ecijaweb.com/</link>
+  <description>Noticias sobre Écija.</description>
+ </channel>
+  
+<copyright>2023 Copyright. Todos los derechos reservados.</copyright>
 </rss>
