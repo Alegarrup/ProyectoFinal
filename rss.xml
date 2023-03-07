@@ -2,15 +2,19 @@
 <rss version="2.0">
 
 <channel>
+    <item>
   <title>Mi Página de inicio.</title>
   <link> https://alegarrup.github.io/ProyectoFinal</link>
   <description>Mi Página de HTML con css.</description>
+    </item>
  </channel>
-<channel>
   
+<channel>
+  <item>
   <title>Antena 3</title>
   <link>https://www.antena3.com/noticias/</link>
   <description>Canal de noticias Antena 3.</description>
+  </item>
   <item>
     <title>Guerra Rusia</title>
     <link>https://www.antena3.com/noticias/mundo/guerra-rusia-ucrania-hoy-directo-ucrania-mantiene-defensa-bajmut-refuerzos-adicionales_202303076406e89b58a098000198e79a.html</link>
@@ -19,9 +23,11 @@
 </channel>
   
   <channel>
+    <item>
   <title>Ecija.</title>
   <link> https://www.ecijaweb.com/</link>
   <description>Noticias sobre Écija.</description>
+      </item>
  </channel>
   
 <copyright>2023 Copyright. Todos los derechos reservados.</copyright>
